@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-aaqbwk.avantiai.app/sitemap.xml
